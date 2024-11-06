@@ -1,3 +1,1 @@
-print("sarah")
-x=5
-print(x+5)
+print("Ammonah")
